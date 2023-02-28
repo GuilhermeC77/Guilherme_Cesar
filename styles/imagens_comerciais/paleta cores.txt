@@ -1,0 +1,5 @@
+fundo preto: #1E1E1E
+Eletras brancas: #E7E7E7
+Roxo: #7A63FF
+Roxo escuro: #270949
+Amarelo: #E9CE34
