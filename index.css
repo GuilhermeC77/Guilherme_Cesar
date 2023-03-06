@@ -90,7 +90,7 @@ body {
 p {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   font-style: italic;
-  font-size: 30px;
+  font-size: 40px;
   padding: 25px;
   margin: 0px auto;
 }
@@ -98,6 +98,7 @@ p {
 li {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   list-style: none;
+  font-size: 40px;
 }
 
 .fundoPreto {
